@@ -1,0 +1,19 @@
+*{
+    background-color: white;
+    text-align: center;
+    background: white;
+    margin: 15px;
+}
+.Heads{
+    background-color: transparent;
+    font-size: 10%;
+    cursor: pointer;
+}
+.Tails{
+    background-color: transparent;
+    font-size: 10%;
+    cursor: pointer;
+}
+.Print{
+    background-color: darkgrey;
+}
